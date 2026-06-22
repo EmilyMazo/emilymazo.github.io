@@ -4,6 +4,6 @@ I'm a PhD candidate in the sociology department at Columbia University. I study 
 
 [CV](cv.pdf)
 
-[Press](press)
+[Media](media)
 
 [Contact](contact)
