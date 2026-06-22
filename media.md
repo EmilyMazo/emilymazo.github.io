@@ -8,6 +8,8 @@
 
 [Despite Crackdown on Activism, Tech Employees Are Still Picking Fights](https://www.nytimes.com/2025/12/26/business/tech-employees-activism-kickstarter.html) | New York Times | 2025
 
+[Where Will the Thousands of Laid-Off Tech Workers Go?](https://slate.com/technology/2022/11/tech-jobs-hiring-amazon-meta-twitter-layoffs.html) | Slate | 2022
+
 ## Interviews
 
 [Never Post Podcast](https://www.neverpo.st/the-year-i-learned-to-pay-attention/) | 2025
