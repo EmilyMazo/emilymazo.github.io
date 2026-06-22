@@ -4,7 +4,7 @@ I'm a PhD candidate in the sociology department of Columbia University. I study 
 
 [Research](research)
 
-[CV](cv)
+[CV](cv.pdf)
 
 [Press](press)
 
